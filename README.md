@@ -11,10 +11,6 @@ npm start
 
 Site [Techno Stone](https://technostone.xyz):
 
-```
-npm install -g now
-now
-```
 
 ## Play With Docker
 
