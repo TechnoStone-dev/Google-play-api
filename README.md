@@ -8,6 +8,14 @@ To run locally:
 npm install
 npm start
 ```
+## How To Deploy Watch Video After 4:20
+
+<p align="center">
+  
+  [![How To make own api](https://img.youtube.com/vi/Wr7kazLamJw/0.jpg)](http://www.youtube.com/watch?v=Wr7kazLamJw)
+
+</p>
+
 
 Site [Techno Stone](https://technostone.xyz):
 
